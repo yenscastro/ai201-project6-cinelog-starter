@@ -6,6 +6,12 @@ This repository is the starting point for **Project 6: Simulated Code Review**.
 
 ---
 
+## Screenshots
+
+<img width="1590" height="443" alt="Screenshot 2026-07-14 172559" src="https://github.com/user-attachments/assets/f2da7ad3-6a20-407c-9b60-5a6ab3bd723c" />
+
+<img width="1552" height="282" alt="Screenshot 2026-07-14 172622" src="https://github.com/user-attachments/assets/8663b873-1aa0-4b0a-b8ac-036b1cfd3d2a" />
+
 ## Setup
 
 ```bash
